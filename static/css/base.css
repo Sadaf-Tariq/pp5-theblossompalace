@@ -116,6 +116,10 @@ body {
     border: 1px solid #0e1111!important;
 }
 
+ul.list-inline.list-unstyled.text-center.text-lg-right.my-0 li.list-inline-item {
+    margin-right: -20px; 
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
