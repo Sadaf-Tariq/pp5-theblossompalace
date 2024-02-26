@@ -43,10 +43,14 @@ body {
     font-weight: 500;
 }
 
+
 .logo-text{
     color: #0e1111;
 }
 
+.nav-color{
+    background-color: rgba(229, 143, 109, 0.4);
+}
 .badge {
     padding-left: 9px;
     padding-right: 9px;
@@ -116,8 +120,15 @@ body {
     border: 1px solid #0e1111!important;
 }
 
+.bg-black{
+    background-color:  rgba(229, 143, 109, 0.4);
+}
+
 ul.list-inline.list-unstyled.text-center.text-lg-right.my-0 li.list-inline-item {
     margin-right: -20px; 
+}
+.navbar-toggler .navbar-toggler-icon {
+    color: white; /* Change to the color you desire */
 }
 
 /* -------------------------------- Media Queries */
